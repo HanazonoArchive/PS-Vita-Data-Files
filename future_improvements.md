@@ -1,0 +1,4 @@
+- Adding a Feedback Feature
+- Adding a Rating Feature
+- Adding a Tags System and Filter System
+- Implementing the 2 Pages (Games, Ported Games) <-- Priority
